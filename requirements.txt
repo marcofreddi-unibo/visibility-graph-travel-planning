@@ -1,0 +1,6 @@
+numpy
+shapely
+matplotlib
+trimesh
+rtree
+mapbox_earcut
